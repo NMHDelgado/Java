@@ -8,7 +8,7 @@ public class Base {
         // String password = "";
         String url = "jdbc:postgresql://localhost:5432/test";
         String userName = "postgres";
-        String password = "passwod"; // Remplacer ce password par le mot de passe de votre serveur de BD
+        String password = "password"; // Remplacer ce password par le mot de passe de votre serveur de BD
 
         // Creation d'un utilisateur en BD
         try{
